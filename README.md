@@ -1,1 +1,4 @@
 # test-error
+
+
+foo
